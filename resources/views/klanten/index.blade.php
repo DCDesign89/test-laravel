@@ -39,5 +39,6 @@
         </tr>
         @endforeach
     </tbody>
+    <p>bedankt!</p>
 </table>
 @endsection
